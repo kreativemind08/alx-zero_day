@@ -1,2 +1,2 @@
 $git echo '#!/bin/bash' 
-$git echo "School"
+$git echo "The school is open!"
